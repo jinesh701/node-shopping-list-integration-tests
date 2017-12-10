@@ -2,8 +2,6 @@ language: node_js
 node_js: node
 deploy:
   provider: heroku
-  api_key:
-    secure: WAUAVR2WrNoIbbZytiXZ+97GVRC6CKZVxBb30qutMkkaFujnBWPc3x0A4hYTu8t3zQacD2iQ/qlAYnBDOdZ2J+Ew6pQ48HrDP320m/+aBoktCZJ1xGhCTmsDlAN5XvzS/5JWX4kVxR2k5PuEGIkqchKrvLlvC2X3FIh/oSLpV+fX39pbaHgBU9uoePoyZZ8bFHnW0N8d7+3KxcnfkU3rpbfSYSS4hurXA6u/JjWoNRLAI+q2Qjg6CZDOl+AWkblkTpPjI+kDhezflkQAtQyLXVY0DQlX8feGh5U0pxKa4r9fxtPUOmaJKSkbBsI/XeRiGCgjWEJPV2WEUNqIpfahf1fiWByn1tXgOwdGh7mJqODqfkyI4dSAxhVvpMXIgGmotfP7eLl7nHjFYr9ntM7696uEWQJ+Qo+zjMGVZ0+jzOl8p+B+cInj+7qM71mmJELojRNihXbbBAS6QxOon9W4kvxqekR5oqsYOgvuVJQu6i1l1yBzT7SwE5OBsO9lqY0teN0td36j7SJDgRelTsK0pQSguA5dV8Kex/XFkw377KpHQY7Edyr40Pq68+BZ70exJyQ8+ZqL+s+h0iVkfUh3DDOSh1JDFNYRwPw0u7UyrZvs0bheG9ak73KrchPGE0oV2xhH/poY88TAB/5+7rLbRAwQgqlAeZsOlJg/X/pLkic=
   app: ancient-harbor-69260
   on:
     repo: jinesh701/node-shopping-list-integration-tests
